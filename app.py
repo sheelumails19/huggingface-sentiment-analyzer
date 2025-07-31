@@ -1,6 +1,6 @@
 from transformers import pipeline
 import gradio as gr
-1
+
 
 # Load the Hugging Face model
 classifier = pipeline("sentiment-analysis")
